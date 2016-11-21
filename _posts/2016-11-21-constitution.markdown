@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Daemo Constitution"
-date:   2016-11-11 16:19:37 -0800
+date:   2016-11-21 16:19:37 -0800
 categories: constitution
 ---
 
@@ -34,7 +34,7 @@ Members of the community are categorized as workers or requesters. Community mem
 Members who spend less than 5 days a month working or requesting on Daemo are considered inactive. Inactive members’ votes are not counted while they remain inactive.
 
 ### Daemo platform team
-The Daemo platform team implements and maintains Daemo. This includes but is not limited to platform development, financial management, and  ongoing research. The Daemo platform acts as an independent group whose activities must follow the constitution but operates externally to the community. For example, the platform does not participate in most voting.
+The Daemo platform team implements and maintains Daemo. This includes but is not limited to platform development, financial management, and  ongoing research. The Daemo platform acts as an independent group whose activities must follow the constitution but operates externally to the community. For example, the platform does not participate in most of the voting.
 
 All platform team activities are made public. Because the platform occasionally engages in long term research, some ongoing studies will not be disclosed until after their completion. All research conducted by the platform will comply with ethical research guidance from the Institutional Research Board (IRB).
 
@@ -113,7 +113,7 @@ All references regarding changes to the constitution or evidence upon which deci
 - [Forum Badges][badges] and [how they work][badges-how]
 
 # Glossary
-- *Daemo*: The open-source, crowd governed, crowdsourcing platform
+- *Daemo*: The open-source, crowd-governed, crowdsourcing platform
 - *Constitution*: This document which outlines ideological and operational instructions for the Daemo platform.
 - *Community*: The group of all people who use Daemo. This includes workers and requesters.
 - *Worker*: Someone for whom at least 40% of their contributions to Daemo are through working on tasks
