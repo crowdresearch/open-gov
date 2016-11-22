@@ -34,9 +34,8 @@ sass:
 exclude:
   - Gemfile
   - Gemfile.lock
-
 timezone: America/Los_Angeles
-
+future: true
 kramdown:
   auto_ids: true
   footnote_nr: 1

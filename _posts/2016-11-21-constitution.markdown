@@ -1,10 +1,10 @@
 ---
-layout: page
-title:  "Daemo Constitution"
-date:   2016-11-11 16:19:37 -0800
+layout: post
+title: "Daemo Constitution"
+date: 2016-11-21 12:20:00
 categories: constitution
+published: true
 ---
-
 We are Daemo, an open-source crowdsourcing platform governed by its workers and requesters. The Daemo constitution is amended by this community to reflect their evolving needs.
 
 Daemo aims to offer an excellent experience for all its members: high quality work for requesters and fair working conditions for workers.  To achieve this, governance on Daemo is structured to enable workers and requesters to discuss ideas and develop amendments. A team focused on the technical implementation of Daemo ensures that new constitutional amendments are built and work to improve platform features and performance. This independence facilitates keeping Daemo cutting edge while also allowing it to respond to the evolving needs of its users.
@@ -115,7 +115,7 @@ All references regarding changes to the constitution or evidence upon which deci
 - [Forum Badges][badges] and [how they work][badges-how]
 
 # Glossary
-- *Daemo*: The open-source, crowd governed, crowdsourcing platform
+- *Daemo*: The open-source, crowd-governed, crowdsourcing platform
 - *Constitution*: This document which outlines ideological and operational instructions for the Daemo platform.
 - *Community*: The group of all people who use Daemo. This includes workers and requesters.
 - *Worker*: Someone for whom at least 40% of their contributions to Daemo are through working on tasks
