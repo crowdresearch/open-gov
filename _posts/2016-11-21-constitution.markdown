@@ -18,7 +18,7 @@ With this constitution, we describe community standards for platform participati
 1. [Membership](#membership): how users participate in the platform
 2. [Governance](#governance): regulations for managing changes to the constitution
 3. [Community Standards](#community-standards): the behavior  we expect and support on Daemo
-4. [Resources](#resources): links to related documents
+4. [Resources](#other-important-resources): links to related documents
 5. [Glossary](#glossary)
 
 # Membership
