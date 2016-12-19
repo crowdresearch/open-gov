@@ -130,7 +130,7 @@ Whenever possible, evidence should be cited and linked directly to the source wh
 # Glossary
 
 | Term | Use |
-|:--|:--|
+|:------------------|:-------------------------------------------------------------------------------------|
 | Daemo | The open-source, crowd governed, crowdsourcing platform |
 | Constitution | This document which outlines ideological and operational instructions for the Daemo platform. |
 | Community | The group of all people who use Daemo. This includes workers and requesters. |
