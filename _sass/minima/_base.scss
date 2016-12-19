@@ -208,3 +208,7 @@ pre {
 thead, tbody {
   vertical-align:top;
 }
+
+th, td {
+    min-width: 10em;
+}
