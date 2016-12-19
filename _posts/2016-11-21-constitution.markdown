@@ -7,8 +7,6 @@ published: true
 ---
 We are Daemo, an open-source crowdsourcing platform governed by its workers and requesters. The Daemo constitution is amended by this community to reflect their evolving needs.
 
-We are Daemo, an open-source crowdsourcing platform governed by its workers and requesters. The Daemo constitution is amended by this community to reflect their evolving needs. 
-
 Daemo aims to offer high quality work for requesters and fair working conditions for workers. To achieve this, governance on Daemo is structured to enable workers and requesters to discuss ideas, develop amendments, and ensure the amendments are appropriately interpreted. A team focused on the platform design and implementation ensures that new constitutional amendments are built in, while also improving platform features and performance. This independence facilitates keeping Daemo nimble while also allowing it to respond to the evolving needs of its users.
 
 With this constitution, we describe community standards for platform participation and a mechanism for those standards to be updated through crowd governance.
