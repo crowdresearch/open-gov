@@ -15,11 +15,11 @@ With this constitution, we describe community standards for platform participati
 
 ## Sections
 
-1. [Membership](membershipURL): how users participate in the platform
-2. [Governance](governanceURL): regulations for managing changes to the constitution
-3. [Community Standards](communityStandardsURL): the behavior  we expect and support on Daemo
-4. [Resources](resourcesURL): links to related documents
-5. [Glossary](glossaryURL)
+1. [Membership](#membership): how users participate in the platform
+2. [Governance](#governance): regulations for managing changes to the constitution
+3. [Community Standards](#community-standards): the behavior  we expect and support on Daemo
+4. [Resources](#resources): links to related documents
+5. [Glossary](#glossary)
 
 # Membership
 
@@ -29,7 +29,7 @@ Participation in Daemo and its governance is not restricted. Anyone with a Daemo
 
 User profiles on Daemo display no personally identifiable information about members by default. The profile will identify members by their role(s) in the community and their degree of activity. 
 
-Members are required to adhere to [community standards](communityStandardsURL).
+Members are required to adhere to [community standards](#community-standards).
 
 ## Daemo community
 
