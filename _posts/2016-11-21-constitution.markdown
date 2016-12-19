@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Daemo Constitution"
-date:   2016-11-11 16:19:37 -0800
+title: "Daemo Constitution"
+date: 2016-11-21 12:20:00
 categories: constitution
+published: true
 ---
+We are Daemo, an open-source crowdsourcing platform governed by its workers and requesters. The Daemo constitution is amended by this community to reflect their evolving needs.
 
 We are Daemo, an open-source crowdsourcing platform governed by its workers and requesters. The Daemo constitution is amended by this community to reflect their evolving needs. 
 
