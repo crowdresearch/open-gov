@@ -201,3 +201,10 @@ pre {
     fill: $grey-color;
   }
 }
+
+/**
+ * Tables
+ */
+thead, tbody {
+  vertical-align:top;
+}
